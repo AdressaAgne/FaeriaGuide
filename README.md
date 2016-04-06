@@ -20,8 +20,7 @@ Working on it
 ### API
 No api yet.
 
-
-##Todo list:
+###Todo list:
 
 - Allow users to Submit guides
 - Markdown for guides/decks
@@ -31,4 +30,14 @@ No api yet.
 - Better Stream Design
 - Decks, Cards and News API
 - About page and Donor list
+
+### Tools:
+
+Card Resizer:
+
+    $cr = new CradResizer();
+    $cr->resizeFolder("CardExport");
+
+This is made for the folder layout on the [Abrakam Faeria Cards Github](https://github.com/abrakam/Faeria_Cards)
+
 
