@@ -33,7 +33,7 @@ No api yet.
 
 ### Tools:
 
-Card Resizer:
+Card Resizer: CardResizer.php
 
     $cr = new CradResizer();
     $cr->resizeFolder("CardExport");
